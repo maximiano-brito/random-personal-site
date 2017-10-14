@@ -1,0 +1,59 @@
+  body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+
+  p {font-size: 16px;}
+
+  .margin {margin-bottom: 45px;}
+  
+  .bg-1 { 
+    background: linear-gradient(rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('../_images/tech.jpg');
+	color: #ffffff;
+	text-align: center;
+  }
+
+  .bg-2 { 
+	  background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+
+  .bg-3 { 
+	 background: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.1)), url('../_images/tech.jpg');
+     color: white;
+	 text-align: center;
+  }
+
+  .bg-4 { 
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+  }
+  
+  .bg-99 {
+	  background-color: white;
+      color:#474e5d;
+  }
+  
+  .container-fluid {
+      padding-top: 70px;
+      padding-bottom: 70px;
+  }
+  
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 5px;
+  }
+  
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+ 
+ .centro {
+		text-align: center;
+	}
